@@ -1,0 +1,23 @@
+{
+  "name": "breve",
+  "version": "0.0.1",
+  "description": "new generation http framework based on express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imkarma/breve.git"
+  },
+  "keywords": [
+    "express",
+    "http"
+  ],
+  "author": "Andrew Pozunyk <andrew.pozunyk@gmail.com> (https://ua.linkedin.com/in/pozunyk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imkarma/breve/issues"
+  },
+  "homepage": "https://github.com/imkarma/breve#readme"
+}
